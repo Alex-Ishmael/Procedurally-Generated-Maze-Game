@@ -25,7 +25,8 @@ It becomes a lot more clear with an example, check out this video of me playing 
 
    This can be done by any C++ compiler.
    
-   If you do not have a C++ compiler installed I recommend using VS code and this [guide](https://code.visualstudio.com/docs/languages/cpp)   
+   If you do not have a C++ compiler installed I recommend using VS code and this [guide](https://code.visualstudio.com/docs/languages/cpp)
+    
    Once installed you can run the program by clicking the play button in the top right corner (the correct json task settings are included in the .vscode folder):
    
    ![image](https://github.com/Alex-Ishmael/Procedurally-Generated-Maze-Game/assets/92725864/b0c123b8-a3c7-4903-b191-3e5554d6f509)
@@ -34,7 +35,7 @@ It becomes a lot more clear with an example, check out this video of me playing 
    > cl /EHsc main.cpp maze.cpp graph.cpp utilities.cpp
    > main
 
-3) Follow the instructions on the screen once the executable opens
+4) Follow the instructions on the screen once the executable opens
 
 ## How it works
 
