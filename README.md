@@ -15,11 +15,11 @@ It becomes a lot more clear with an example, check out this video of me playing 
 
 1) Download the program
 
-I recommend cloning the repository using the Github CLI:
-> gh repo clone Alex-Ishmael/Procedurally-Generated-Maze-Game
+   I recommend cloning the repository using the Github CLI:
+   > gh repo clone Alex-Ishmael/Procedurally-Generated-Maze-Game
 
-You can also clone by copy and pasting this command in your terminal:
->git clone https://github.com/Alex-Ishmael/Procedurally-Generated-Maze-Game.git
+   You can also clone by copy and pasting this command in your terminal:
+   > git clone https://github.com/Alex-Ishmael/Procedurally-Generated-Maze-Game.git
 
 2) Build the program by compiling the files in the workspace folder and running main.cpp:
 
