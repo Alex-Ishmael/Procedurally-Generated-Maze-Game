@@ -47,6 +47,8 @@ The program then allows the user to view an animation of the most optimal soluti
 
 BFS allows the program to find solutions in O(V + E) time, which in the context of this program is O(2n) => O(n). 
    
+## Future updates
 
+One of the most diificult obstacles in the development of this program was the limitations of the terminal. The program's current implementation runs fully in the terminal and puts a ceiling on the effects and animations that can be done. Additionally, the size of the game is limited by the terminal as the program can run large board sizes but the terminal screen cannot fit all the elements since all text is the same size. I have started development for Version 2 of this game with a dedicated GUI using the QT framework to allow for larger puzzles, more effects, and smoother animations.
    
 
