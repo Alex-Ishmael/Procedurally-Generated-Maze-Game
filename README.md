@@ -1,5 +1,5 @@
 # Procedurally-Generated-Maze-Game
-C++ project using Object Oriented Programming, Graphs Implementation, and a modified Breadth First Search algorithm.
+C++ project using Object Oriented Programming, Graph Implementation through adjacency lists, modified Breadth First Search algorithm, and terminal animations. (Version 2 will have a dedicated GUI using QT C++ framework)
 
 ## How to play
 This game works by randomly generating a number maze of N x N size, with the goal of navigating from the top left square, to the bottom right square.
