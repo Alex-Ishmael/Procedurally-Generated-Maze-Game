@@ -22,12 +22,14 @@ https://github.com/Alex-Ishmael/Procedurally-Generated-Maze-Game/assets/92725864
 1) Download the program
 
    I recommend cloning the repository using the Github CLI:
+   
    `gh repo clone Alex-Ishmael/Procedurally-Generated-Maze-Game`
 
    You can also clone by copy and pasting this command in your terminal:
+   
    `git clone https://github.com/Alex-Ishmael/Procedurally-Generated-Maze-Game.git`
 
-2) Build the program by compiling the files in the workspace folder and running main.cpp:
+3) Build the program by compiling the files in the workspace folder and running main.cpp:
 
    This can be done by any C++ compiler.
    
@@ -38,10 +40,11 @@ https://github.com/Alex-Ishmael/Procedurally-Generated-Maze-Game/assets/92725864
    ![image](https://github.com/Alex-Ishmael/Procedurally-Generated-Maze-Game/assets/92725864/b0c123b8-a3c7-4903-b191-3e5554d6f509)
 
    You can also run from the terminal using this command (if you followed the guide above)
+   
    `cl /EHsc main.cpp maze.cpp graph.cpp utilities.cpp`
    `main`
 
-4) Follow the instructions on the screen once the executable opens
+5) Follow the instructions on the screen once the executable opens
 
 ## How it works
 
