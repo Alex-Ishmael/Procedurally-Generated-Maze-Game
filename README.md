@@ -12,6 +12,7 @@ This program will always output the most efficient solution, that is the one tha
 It becomes a lot more clear with an example, check out this video of me playing the game! (The instructions are also presented in the program)
 
 
+
 https://github.com/Alex-Ishmael/Procedurally-Generated-Maze-Game/assets/92725864/213fd270-3d83-4aca-b1e8-e01f217bbb58
 
 
