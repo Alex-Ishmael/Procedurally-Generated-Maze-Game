@@ -1,7 +1,7 @@
 # Procedurally-Generated-Maze-Game
-C++ project using Object Oriented Programming, Graph Implementation through Adjacency Lists, modified Breadth First Search algorithm, and Animations to show optimal solutions. 
+Last Fall, I took one of my most memorable Computer Science courses at UIUC, Algorithms and Models of Computation. It was memorable for being immensely difficult but also for being incredibly influential in how I can appraoch solving real world problems through algorithms. Breaking a problem into all possible moves and outcomes and devising a way to make sure you win every time. It inspired me to make a game and put my algorithm skills to the test. I chose a number maze, as it allowed me to solve a problem that can randomize and scale itself infinitely allowing me to truly test my algorithm.
 
-## How to play
+## Rules of The Game
 This game works by randomly generating a number maze of N x N size, with the goal of navigating from the top left square, to the bottom right square.
 Each square has a number which represents the distance you're able to move in one of 4 directions: up, down, left, or right.
 A move is only valid if you remain within the bounds of the grid.
